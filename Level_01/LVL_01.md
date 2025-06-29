@@ -14,7 +14,7 @@ Before you can work on the next game, let's get you setup so you can write Java 
 
 ## Setup
 
-Open the [quintos-template](https://github.com/quinton-ashley/quintos-template) project on Github. Press the big green button that says "Use this template". Name your project "quintos-projects".
+Open the [quintos-template](https://github.com/quintos-org/quintos-template) project on Github. Press the big green button that says "Use this template". Name your project "quintos-projects".
 
 Now open the Git Bash app on Windows or the Terminal app on macOS and copy/paste these commands one line at a time. Replace `!!!your username!!!` with your GitHub username.
 
