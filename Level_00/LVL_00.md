@@ -120,7 +120,7 @@ Double slash `//` is for making a comment, any text behind it on the same line w
 
 ## End of Level 00 A
 
-Now you're ready to start making your first game! 🥳 [Click here for the GuessTheNumber instructions.](https://github.com/quinton-ashley/IntroToJava/blob/main/Level_00/GuessTheNumber.md)
+Now you're ready to start making your first game! 🥳 [Click here for the GuessTheNumber instructions.](https://github.com/quintos-org/IntroToJava/blob/main/Level_00/GuessTheNumber.md)
 
 # Level 00 B
 

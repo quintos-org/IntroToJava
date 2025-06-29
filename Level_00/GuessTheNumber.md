@@ -26,7 +26,7 @@ Since you're just starting to write this program, don't make the number random y
 
 Tell the player to guess a number using `System.out.println` put your message (String) inside the parenthesis of the `println` function. Create the variable `guess` using `int`, assign it to the user's response to `sc.nextInt()`.
 
-[Now you can click here to move onto Level 00 B](https://github.com/quinton-ashley/IntroToJava#level-00-b).
+[Now you can click here to move onto Level 00 B](https://github.com/quintos-org/IntroToJava#level-00-b).
 
 ## Instructions for Part B
 

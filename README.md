@@ -1,6 +1,6 @@
 # IntroToJava
 
-Learn to code by making games in Java using [QuintOS](https://quinton-ashley.github.io/quintos/)!
+Learn to code by making games in Java using [QuintOS](https://quintos-org.github.io/quintos/)!
 
 ## Summary
 
@@ -8,7 +8,7 @@ In this course, students level up their coding skills by making games using Java
 
 Students develop these games using QuintOS, a graphics system I created to make learning to program easier and more fun. The games run on vintage virtual computers displayed in their web browser. As students level up their coding skills, their virtual computer will get upgraded. The virtual computers are modeled after the CASIO FX-702P, Commodore PET, ZX Spectrum, Apple II, GRiD Compass, Commodore 64, Speak and Spell, classic arcade cabinets, and the Nintendo GameBoy.
 
-Students will also learn how to use GitHub to share their games on <https://quinton-ashley.github.io/quintos>
+Students will also learn how to use GitHub to share their games on <https://quintos-org.github.io/quintos>
 
 | <img width="160px" src="https://elasticbeanstalk-us-east-2-651921832906.s3.us-east-2.amazonaws.com/QuintOS/profile-sm.jpg"> | Hi I'm Quinton Ashley, the creator of this course. I've been a CS teacher for four years and coding for ten years, since I was 14! Before deciding to teach full time I was a student at NYU and I worked as a Node.js Software Developer at QTUltrasound, a medical device company in the San Francisco Bay Area. I also created [Nostlan](https://github.com/quinton-ashley/nostlan), a launcher app for video game emulators that has thousands of active users and 260 stars on Github. |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
